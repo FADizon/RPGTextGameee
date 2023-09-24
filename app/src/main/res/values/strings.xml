@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RPGTextGame</string>
+    <string name="perform_action">Perform Action</string>
+    <string name="rpgtextgame">RPG TextGame</string>
+    <string name="defend">Defend</string>
+    <string name="attack">Attack</string>
+    <string name="heal">Heal</string>
+    <string name="your_hp">Your HP</string>
+    <string name="monster_hp">Monster HP</string>
+</resources>
